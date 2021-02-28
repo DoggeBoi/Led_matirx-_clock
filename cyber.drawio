@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T00:54:24.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="iL0mD6fjlcGGqICuOY0M" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T00:59:08.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="GA3Stw_30HYXpGxOqyf7" version="14.4.3" type="github">
   <diagram id="_PQn1Uy8t_eb8sXLkzAz" name="Page-1">
-    <mxGraphModel dx="2426" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2946" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,10 +251,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i-8vvmm6yCiT5ENzY_J1-71" value="&lt;font style=&quot;font-size: 50px&quot;&gt;RPI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1240" width="230" height="360" as="geometry" />
+          <mxGeometry x="1440" y="730" width="230" height="360" as="geometry" />
         </mxCell>
         <mxCell id="i-8vvmm6yCiT5ENzY_J1-72" value="&lt;font style=&quot;font-size: 30px&quot;&gt;PICO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="1210" width="110" height="190" as="geometry" />
+          <mxGeometry x="1110" y="900" width="110" height="190" as="geometry" />
         </mxCell>
         <mxCell id="i-8vvmm6yCiT5ENzY_J1-73" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Over Voltage Protection 12v&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#b85450;strokeWidth=4;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="20" y="1000" width="160" height="90" as="geometry" />
@@ -327,9 +327,27 @@
         </mxCell>
         <mxCell id="i-8vvmm6yCiT5ENzY_J1-95" value="" style="endArrow=classic;html=1;shadow=1;strokeWidth=13;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1600" y="660" as="sourcePoint" />
-            <mxPoint x="1600" y="300" as="targetPoint" />
+            <mxPoint x="1600" y="640" as="sourcePoint" />
+            <mxPoint x="1600" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i-8vvmm6yCiT5ENzY_J1-98" value="" style="endArrow=classic;html=1;shadow=1;strokeWidth=9;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="1043.5" as="sourcePoint" />
+            <mxPoint x="1115" y="1046.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-8vvmm6yCiT5ENzY_J1-99" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Analog Signal&lt;br&gt;Voltage&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="990" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i-8vvmm6yCiT5ENzY_J1-100" value="" style="endArrow=classic;html=1;shadow=1;strokeWidth=9;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1430" y="1044.5" as="sourcePoint" />
+            <mxPoint x="1220" y="1044.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-8vvmm6yCiT5ENzY_J1-101" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Analog Signal&lt;br&gt;CPU Temp&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="980" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
