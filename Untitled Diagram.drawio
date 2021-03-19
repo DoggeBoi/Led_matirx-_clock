@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T20:23:17.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="E8KZEj6x26x1HinWWD7A" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T20:33:59.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="NxywsxrCXRLL97qmBgYJ" version="14.4.9" type="github">
   <diagram id="SXXWEeyV9By4NUEat3Ey" name="Page-1">
-    <mxGraphModel dx="826" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="2104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="7ekd8FyxpCXXgJrS_oEB-1" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 14px&quot;&gt;Level Indicator (LED)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;strokeWidth=2;shadow=0;fillStyle=hachure;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7ekd8FyxpCXXgJrS_oEB-3" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 14px&quot;&gt;High Current Fuse&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;strokeWidth=2;shadow=0;fillStyle=hachure;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="7ekd8FyxpCXXgJrS_oEB-3" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px&quot;&gt;Fuse&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;strokeWidth=2;shadow=0;fillStyle=hachure;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="340" y="242.5" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="7ekd8FyxpCXXgJrS_oEB-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Battery Casing&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
