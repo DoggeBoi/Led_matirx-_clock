@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T19:49:42.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="PvZgq4dz7tXAA8cdYeRp" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T19:57:20.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="xC3DeNAb_5d_ozkEsHke" version="14.4.9" type="github">
   <diagram id="SXXWEeyV9By4NUEat3Ey" name="Page-1">
-    <mxGraphModel dx="683" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7ekd8FyxpCXXgJrS_oEB-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="90" width="460" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="rGJi0qXOW82os7Kz2DqW-1" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 27px&quot;&gt;Battery 3-5s&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;strokeWidth=2;shadow=0;fillStyle=hachure;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+        <mxCell id="rGJi0qXOW82os7Kz2DqW-1" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 27px&quot;&gt;Battery 4s&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;strokeWidth=2;shadow=0;fillStyle=hachure;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="80" y="130" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ekd8FyxpCXXgJrS_oEB-1" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 14px&quot;&gt;Level Indicator (LED)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;strokeWidth=2;shadow=0;fillStyle=hachure;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
