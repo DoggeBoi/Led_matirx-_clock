@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T13:05:58.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="7PUac1Uhrcuk2LTxZIOd" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T13:09:10.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="g3mLJr3vHVtBqUPWDpt4" version="14.7.6" type="github">
   <diagram id="WN819PLStXToIRm2dHOi" name="Page-1">
-    <mxGraphModel dx="3076" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3372" dy="2104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,6 +265,18 @@
               <mxPoint x="20" y="-480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuMhsnVFC1aGhxDmzsB-29" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;48v PWR&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fontColor=#333333;fillColor=#999999;strokeColor=#999999;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-200" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuMhsnVFC1aGhxDmzsB-30" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;36v PWR&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fontColor=#333333;fillColor=#999999;strokeColor=#999999;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-200" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuMhsnVFC1aGhxDmzsB-31" value="&lt;b&gt;LM2596 36v to 12v&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="130" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuMhsnVFC1aGhxDmzsB-32" value="&lt;b&gt;LM2596 36v to 5v&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="130" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
