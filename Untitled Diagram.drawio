@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T12:09:30.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="UVisMjVCdwH0w7NjcQFx" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T12:10:36.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="_TngMnRVQYMoUWJShpaK" version="14.7.6" type="github">
   <diagram id="WN819PLStXToIRm2dHOi" name="Page-1">
     <mxGraphModel dx="3076" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="LDjXvFkaUpSCtm-YkeH0-38" value="&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#007fff&quot;&gt;NEUTRAL&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#9e7915&quot;&gt;F1&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#82b366&quot;&gt;GND&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-92.5" y="57.5" width="132.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDjXvFkaUpSCtm-YkeH0-41" value="Dubbelkolla vilket håll sladdarna ska sitta.&lt;br&gt;KSK inte splear roll med AC?, ta dock inga chanser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="200" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
